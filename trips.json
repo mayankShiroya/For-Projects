@@ -1,6 +1,4 @@
-{
-    "Wander-Trips":  {
-      "Short-Trips":[
+[
         {
           "tripId": "1",
             "destinationName":"Mars",
@@ -25,6 +23,6 @@
               "stayTime": "1 Month",
               "tripPrice": "20"
           }  
-      ]
-    }
-  }
+ ]
+    
+ 
