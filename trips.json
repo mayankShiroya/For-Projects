@@ -1,0 +1,30 @@
+{
+    "Wander-Trips":  {
+      "Short-Trips":[
+        {
+          "tripId": "1",
+            "destinationName":"Mars",
+            "tripImageURL": "Example",
+            "travelPartnerName":"SpaceX",
+            "travelPartnerLogoURL": "example",
+            "reviewStar": "4.5",
+            "tripDescription": "Man kind’s First cursh to settle on, Thanks to a very loud person on the twitter.",
+            "travelTime": "1 Year",
+            "stayTime": "6 Months",
+            "tripPrice": "150"
+        },
+        {
+            "tripId": "2",
+              "destinationName":"Moon",
+              "tripImageURL": "Example",
+              "travelPartnerName":"ISRO Platinum",
+              "travelPartnerLogoURL": "example",
+              "reviewStar": "4.6",
+              "tripDescription": "India First cursh to settle on, Thanks to a very loud person on the twitter.",
+              "travelTime": "1 Month",
+              "stayTime": "1 Month",
+              "tripPrice": "20"
+          }  
+      ]
+    }
+  }
