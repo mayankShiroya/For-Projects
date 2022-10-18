@@ -4,7 +4,7 @@
         {
           "tripId": "1",
             "destinationName":"Mars",
-            "tripImageURL": "Example",
+            "tripImageURL": "https://raw.githubusercontent.com/mayankShiroya/For-Projects/main/Mars.svg",
             "travelPartnerName":"SpaceX",
             "travelPartnerLogoURL": "example",
             "reviewStar": "4.5",
@@ -16,7 +16,7 @@
         {
             "tripId": "2",
               "destinationName":"Moon",
-              "tripImageURL": "Example",
+              "tripImageURL": "https://raw.githubusercontent.com/mayankShiroya/For-Projects/main/moon.svg",
               "travelPartnerName":"ISRO Platinum",
               "travelPartnerLogoURL": "example",
               "reviewStar": "4.6",
